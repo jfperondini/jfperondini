@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 <div aling="center" style="display: inline_block"><br>
-    <!--https://devicon.dev/-->
 
     <img alt="JF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="JF-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
   
 <div aling="center" style="display: inline_block"><br>
-    <!--https://dev.to/envoy_/150-badges-for-github-pnk -->
+  
 
     <a href="#" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
     <a href="malito:jfperondini@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
