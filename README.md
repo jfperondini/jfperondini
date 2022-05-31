@@ -1,4 +1,4 @@
-### Hi there, My name is João Fernando Perondini
+### Hi there, 
 
 -  I’m currently working on Front End Developer
 -  I’m currently learning Javascript
