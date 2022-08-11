@@ -26,15 +26,11 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
     
+        
     
-    
-<<<<<<< HEAD
-   
-    
-    <img aling="center" alt="JF-linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-=======
+
   
->>>>>>> 1bcc650b6b316fab14a8fb8e3f23cf38c8771297
+
  </div>   
  
 <div style="display: inline_block"><br>
