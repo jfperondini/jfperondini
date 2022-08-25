@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  </div>   
  
 <div style="display: inline_block"><br>
-    <a href="www.linkedin.com/in/jfperondini" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+    <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
     
