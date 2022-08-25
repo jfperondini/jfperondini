@@ -1,7 +1,8 @@
 ### Hi there, 
 
--  I’m currently working on Front End Developer
--  I’m currently learning Javascript and Flutter
+- 🔭 I’m currently working on Front End Developer
+- 🌱 I’m currently learning framework Flutter and Node.js
+
 
 <!--
 **jfperondini/jfperondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
