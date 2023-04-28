@@ -27,10 +27,7 @@ www.devicon.dev
     </a>
 </div>
 
-<div>
-     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jfperondini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <
-    </div>
+
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="JF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
