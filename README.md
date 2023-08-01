@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning framework Flutter and Node.js
+- 📫 I’m modular_flutter contributor of Flutterando community  
 
 
 <!--
