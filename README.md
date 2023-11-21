@@ -18,7 +18,7 @@
   </a>
 </div>  
  
-## Tools
+## Tools:
 <div style="display: inline_block"><br>
     <a>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,xd,ps,ae,pr" />
