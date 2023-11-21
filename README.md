@@ -5,6 +5,34 @@
 - 📫 I’m modular_flutter contributor of Flutterando community  
 
 
+<div>
+    <a href="htpps://github.com/jfperondini">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfperondini&layout=compact&langs_count=16&theme-dark" />
+    </a>
+</div>
+
+## Technology and Framework:
+<div style="display: inline_block"><br>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,sqlite,firebase" />
+  </a>
+</div>  
+ 
+## Tools
+<div style="display: inline_block"><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,xd,ps,ae,pr" />
+  </a>
+
+</div>  
+
+
+## Find me on:
+<div style="display: inline_block"><br>
+    <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>  
+</div>
+
+
 <!--
 **jfperondini/jfperondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,37 +49,3 @@ www.devicon.dev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-    <a href="htpps://github.com/jfperondini">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfperondini&layout=compact&langs_count=16&theme-dark" />
-    </a>
-</div>
-
-
-
-## Framework:
-<div style="display: inline_block"><br>
-   <img aling="center" alt="JF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img aling="center" alt="JF-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img aling='center' alt='JF-f' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
-</div>  
- 
-## Tools
-
-<div style="display: inline_block"><br>
-    <img aling="center"  alt="JF-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <img aling="center"  alt="JF-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-    <img aling="center"  alt="JF-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-    <img aling="center"  alt="JF-Ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">  
-   
- </div>  
-
-
-## Find me on:
-<div style="display: inline_block"><br>
-    <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
-   
-</div>
-
-    
