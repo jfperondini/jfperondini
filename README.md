@@ -23,13 +23,14 @@
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,xd,ps,ae,pr" />
   </a>
-
 </div>  
 
 
 ## Find me on:
 <div style="display: inline_block"><br>
-    <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>  
+      <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" >
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
 
 
