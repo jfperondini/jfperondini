@@ -13,14 +13,14 @@
 
 ## Technology and Framework:
 <div style="display: inline_block"><br>
-     <a href="https://skillicons.dev">
+     <a>
     <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,sqlite,firebase" />
   </a>
 </div>  
  
 ## Tools
 <div style="display: inline_block"><br>
-    <a href="https://skillicons.dev">
+    <a>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,xd,ps,ae,pr" />
   </a>
 </div>  
