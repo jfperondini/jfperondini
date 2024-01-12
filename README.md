@@ -14,7 +14,7 @@
 ## Technology and Framework:
 <div style="display: inline_block"><br>
      <a>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,sqlite,firebase" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,sqlite,firebase,supabase" />
   </a>
 </div>  
  
