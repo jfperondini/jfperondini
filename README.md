@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning framework Flutter and Node.js
-- 📫 I’m modular_flutter contributor of Flutterando community  
+- 📫 I’m [Flutter Modular](https://pub.dev/packages/flutter_esc_pos_utils](https://pub.dev/packages/flutter_modular) contributor of Flutterando Community  
 
 
 <div>
