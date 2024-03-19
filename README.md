@@ -4,13 +4,6 @@
 - 🌱 I’m currently learning framework Flutter and Node.js
 - 📫 I’m [flutter_modular](https://pub.dev/packages/flutter_modular) contributor of Flutterando Community  
 
-<br>
-
-<div>
-    <a href="htpps://github.com/jfperondini">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfperondini&layout=compact&langs_count=16&theme-dark" />
-    </a>
-</div>
 
 ## Technology and Framework:
 <div style="display: inline_block"><br>
