@@ -1,26 +1,25 @@
-### Hi there, 
+## Hi there, 
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning framework Flutter and Node.js
 - 📫 I’m [flutter_modular](https://pub.dev/packages/flutter_modular) contributor of Flutterando Community  
 
 
-### Technology and Framework:
+## Technology and Framework:
 <div style="display: inline_block"><br>
      <a>
     <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,sqlite,firebase,supabase," />
   </a>
 </div>  
  
-### Tools:
+## Tools:
 <div style="display: inline_block"><br>
     <a>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,ai,xd,ps,ae,pr" />
   </a>
 </div>  
 
-
-### Find me on:
+## Find me on:
 <div style="display: inline_block"><br>
       <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
