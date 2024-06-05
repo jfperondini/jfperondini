@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning framework Flutter and Node.js
-- ✨ I'm Co-org of Flutter Brasil
 - 📫 I’m [flutter_modular](https://pub.dev/packages/flutter_modular) contributor of Flutterando Community  
 
 
