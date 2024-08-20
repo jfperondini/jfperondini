@@ -1,45 +1,32 @@
-## Hi there, 
+## Hi there 👋
 
-- 🔭 I’m currently working on Front End Developer
-- 🌱 I’m currently learning framework Flutter and React.js with Next.js
-- 📫 I’m [flutter_modular](https://pub.dev/packages/flutter_modular) contributor of Flutterando Community  
+- Frond End Develepor in Flutter and Next.js
+- Co-org [Flutter Brasil](https://linktr.ee/flutterbrasil)
+- [Flutter Modular](https://pub.dev/packages/flutter_modular) Contributor of [Flutterando](https://flutterando.com.br)
+---
 
+### Find Me 
 
-## Technology and Framework:
-<div style="display: inline_block"><br>
-     <a>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,next,js,nodejs,sqlite,firebase,supabase," />
-  </a>
-</div>  
- 
-## Tools:
-<div style="display: inline_block"><br>
-    <a>
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,androidstudio,postman,ai,xd,ps,ae,pr" />
-  </a>
-</div>  
-
-## Find me on:
-<div style="display: inline_block"><br>
-      <a href="https://br.linkedin.com/in/jfperondini?original_referer=https%3A%2F%2Fwww.google.com%2F" >
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<div> 
+  <a href = "mailto:jfperondini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jfperondini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 
-<!--
-**jfperondini/jfperondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technology and Framework
 
-www.devicon.dev
+[![My Technology](https://skillicons.dev/icons?i=flutter,dart,next,react,nodejs,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
+
+[![My Database](https://skillicons.dev/icons?i=sqlite,firebase,supabase,mongo)](https://skillicons.dev)
+
+### Tools
+
+[![My Tools](https://skillicons.dev/icons?i=ubuntu,vscode,androidstudio,postman)](https://skillicons.dev)
+
+### UI/UX
+
+[![My ui/ux](https://skillicons.dev/icons?i=xd,ps,ai,ae,pr)](https://skillicons.dev)
