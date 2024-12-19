@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Frond End Develepor in Flutter and Next.js
+- Front-End Develepor Flutter and Next.js
 - Co-org [Flutter Brasil](https://linktr.ee/flutterbrasil)
 - [Flutter Modular](https://pub.dev/packages/flutter_modular) Contributor of [Flutterando](https://flutterando.com.br)
 ---
