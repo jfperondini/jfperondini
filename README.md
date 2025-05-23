@@ -25,7 +25,7 @@
 
 ### Tools
 
-[![My Tools](https://skillicons.dev/icons?i=ubuntu,vscode,androidstudio,postman)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=ubuntu,vscode,androidstudio,postman,git)](https://skillicons.dev)
 
 ### UI/UX
 
